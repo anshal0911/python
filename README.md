@@ -1,2 +1,2 @@
 # python
-python is awesome
+python is awesome.
